@@ -1,0 +1,6 @@
+streamlit
+sqlite3
+ast
+random
+re
+langchain_ollama
